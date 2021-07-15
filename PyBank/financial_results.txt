@@ -1,0 +1,19 @@
+-------------------------------------------------------
+Financial Analysis
+---------------------------------------------------------------
+Total Months: <bound method Series.count of 0     Jan-10
+1     Feb-10
+2     Mar-10
+3     Apr-10
+4     May-10
+       ...  
+81    Oct-16
+82    Nov-16
+83    Dec-16
+84    Jan-17
+85    Feb-17
+Name: Date, Length: 86, dtype: object>
+Total: $38,382,578.00
+Average Change: $-2,315.12
+Greatest Increase in Profits: Feb-12, $1,926,159.00
+Greatest Decrease in Profits: Sep-13, $-2,196,167.00
